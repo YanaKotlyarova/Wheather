@@ -1,0 +1,30 @@
+[
+    {
+        "API key": "787cded3cfc247a7838b832543897bcc",
+        "name": "Surgut",
+        "units": "metric",
+        "lang": "ru",
+        "name2": "\u0421\u0443\u0440\u0433\u0443\u0442"
+    },
+    {
+        "API key": "787cded3cfc247a7838b832543897bcc",
+        "name": "Moscowww",
+        "units": "metric",
+        "lang": "ru",
+        "name2": "\u041c\u043e\u0441\u043a\u0432\u0430"
+    },
+    {
+        "API key": "787cded3cfc247a7838b832543897bcc123",
+        "name": "London",
+        "units": "metric",
+        "lang": "en",
+        "name2": "London"
+    },
+{
+        "API key": "787cded3cfc247a7838b832543897bcc",
+        "name": "",
+        "units": "metric",
+        "lang": "en",
+        "name2": "London"
+    }
+]
